@@ -22,3 +22,7 @@ u=rounded rectangle
 08:00  
 nudge selection(eliminate non-smoothe)  
 select object,press arrow keys
+
+######Solution: Improve your home icon
+shift+drag  draw straight line  
+cmd+d duplicate current object

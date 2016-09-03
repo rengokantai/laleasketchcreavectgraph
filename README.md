@@ -43,3 +43,6 @@ fill image: fil->pattern fill->choose image
 
 ######Custom borders and effects
 tools->scissors click object's side to cut
+
+#####3.Advanced Vector Editing
+######Bezier vectors and Boolean operations

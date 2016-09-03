@@ -46,3 +46,7 @@ tools->scissors click object's side to cut
 
 #####3.Advanced Vector Editing
 ######Bezier vectors and Boolean operations
+
+#####4. Export Vectors for Developers
+######Exporting to JPG, PDF, SVG, and others
+File->export Artboards to pdf
